@@ -4,6 +4,14 @@ Full-stack web developer
 
 https://www.linkedin.com/in/joão-vitor-bonachini/
 
+---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kotlin,java,spring,js,vue,sass,php,postgres,kafka,aws&perline=5" />
+  </a>
+</p>
+
 <!---
 - 👋 Hi, I’m @jbonachini
 - 👀 I’m interested in ...
